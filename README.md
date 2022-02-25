@@ -1,4 +1,4 @@
-# Android Clone Coding Project #23 ToDO앱
+# Android Clone Coding Project #23 ToD앱
 오늘의 일정을 등록할 수 있음
 </br>
 오늘의 일정을 완료하였는지 볼 수 있음
